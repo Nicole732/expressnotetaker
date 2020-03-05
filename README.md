@@ -16,7 +16,7 @@ It uses an express backend and save and retrieve note data from a JSON file.
 [* Demo](#Demo) 
 
 ## Demo
-
+Click to view the app demo on server and client sides:
 [Demogif](https://drive.google.com/file/d/1utVuo3CnbXGNCVBX7w0vT4OYEL1MIZBV/view?usp=sharing)
 
 
